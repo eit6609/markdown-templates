@@ -1,7 +1,5 @@
 # Markdown Templates
 
-*il nome markdown-teplates su npmjs è libero*
-
 Markdown Templates is a natural template engine for markdown.
 
 The concept of "natural template" comes from [Thymeleaf](https://www.thymeleaf.org/), a Java template engine for HTML.
