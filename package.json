@@ -1,7 +1,7 @@
 {
     "name": "@eit6609/markdown-templates",
     "version": "1.0.0",
-    "description": "A compact and lossless XML JavaScript representation",
+    "description": "Natural templates for markdown",
     "keywords": [
         "markdown",
         "template engine"
@@ -19,7 +19,7 @@
         "type": "git",
         "url": "https://github.com/eit6609/markdown-templates.git"
     },
-    "main": "src/index.js",
+    "main": "src/engine.js",
     "license": "ISC",
     "devDependencies": {
         "eslint": "^5.4.0",
